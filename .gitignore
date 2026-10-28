@@ -6,4 +6,3 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .streamlit/secrets.toml
-creditcard.csv
